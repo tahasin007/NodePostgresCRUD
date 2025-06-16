@@ -1,0 +1,22 @@
+# Node modules (never commit these)
+node_modules/
+
+# dotenv environment file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional build artifacts or dist folders
+dist/
+build/
+
+# IDE settings (optional)
+.vscode/
+.idea/
